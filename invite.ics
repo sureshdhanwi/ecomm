@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220415T100000Z
+DTEND:20220415T110000Z
+DTSTAMP:20220415T100722Z
+ORGANIZER;CN=shivani.jangid@fissionlabs.com:mailto:shivani.jangid@fissionla
+ bs.com
+UID:3b56g8m0f1uj3kq1rtve60g8ea@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=govinduswathi91@gmail.com;X-NUM-GUESTS=0:mailto:govinduswathi91@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=shivani.jangid@fissionlabs.com;X-NUM-GUESTS=0:mailto:shivani.jangid@fis
+ sionlabs.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=swethakiran.puli@fissionlabs.com;X-NUM-GUESTS=0:mailto:swethakiran.
+ puli@fissionlabs.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jagadeesh.dhavaleswarapu@fissionlabs.com;X-NUM-GUESTS=0:mailto:jaga
+ deesh.dhavaleswarapu@fissionlabs.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=farrah.tito@fissionlabs.com;X-NUM-GUESTS=0:mailto:farrah.tito@fissi
+ onlabs.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=priyanka.kota@fissionlabs.com;X-NUM-GUESTS=0:mailto:priyanka.kota@f
+ issionlabs.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/ssd-dmxn-fkm
+X-MICROSOFT-CDO-OWNERAPPTID:1206189413
+CREATED:20220415T100719Z
+DESCRIPTION:<br>Hi Swetha\,<p>Scheduling&nbsp\; Swathi's interview with you
+  for 3:00 pM \, April 18th\, 2022.</p><p>PFA their resume for your referenc
+ e.</p><p>Hi Swathi\,</p><p>1) Make yourself available for at least an hour<
+ br>2) Video interview via google meet - Ensure camera and mic are working w
+ ell<br>3) Expect Swetha to give you an exercise related to Devops.</p><p>4)
+  Join via laptop and not through mobile app.</p><p>PFA JD link for your ref
+ erence.<br></p><p><a href="https://fissionlabs.zohorecruit.com/jobs/Careers
+ /287510000014810020/DevOps-Engineer---AWS?source=CareerSite"><u><u><u><u><u
+ ><u><u><u><u><u><u><u><u><u><u><u><u><u>https://fissionlabs.<u></u>zohorecr
+ uit.com/jobs/Careers/<u></u>287510000014810020/DevOps-<u></u>Engineer---AWS
+ ?source=<u></u>CareerSite</u></u></u></u></u></u></u></u></u></u></u></u></
+ u></u></u></u></u></u></a></p><p>Regards\,</p><p>Shivani.</p><u></u>\n\n-::
+ ~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~::~:~::-\nDo not edit this section of the description.\n\nThis event has a
+  video call.\nJoin: https://meet.google.com/ssd-dmxn-fkm\n(US) +1 216-930-0
+ 898 PIN: 108550229#\nView more phone numbers: https://tel.meet/ssd-dmxn-fkm
+ ?pin=2202118909022&hs=7\n\nView your event at https://calendar.google.com/c
+ alendar/event?action=VIEW&eid=M2I1Nmc4bTBmMXVqM2txMXJ0dmU2MGc4ZWEgZ292aW5kd
+ XN3YXRoaTkxQG0&tok=MzAjc2hpdmFuaS5qYW5naWRAZmlzc2lvbmxhYnMuY29tMjhkNGRlNWMx
+ NjExOTQzZTM0MTM4MmI5N2VmMDBjN2MxNjI5YWIxNA&ctz=Asia%2FKolkata&hl=en&es=1.\n
+ -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~::~:~::-
+LAST-MODIFIED:20220415T100720Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Swathi-DevOps Engineer-3PM
+TRANSP:OPAQUE
+ATTACH;FILENAME=Arigela Swathi_Devops_Orcapod.docx;FMTTYPE=application/vnd.
+ openxmlformats-officedocument.wordprocessingml.document:https://drive.googl
+ e.com/open?id=1G95Hh6XaxCIhkEvjCkPzr8FsvAktXQ5F&authuser=0
+END:VEVENT
+END:VCALENDAR
